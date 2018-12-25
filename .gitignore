@@ -64,3 +64,5 @@ typings/
 
 *.yml
 *.yaml
+datamodel.prisma
+.babelrc
